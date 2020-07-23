@@ -1,2 +1,2 @@
-# CSS-pratice
+# HTML & CSS website
 CSS pratice
